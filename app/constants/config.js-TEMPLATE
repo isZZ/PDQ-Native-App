@@ -1,0 +1,6 @@
+export const FIREBASE_CONFIG = {
+  apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  authDomain: "localhost",
+  databaseURL: "https://yourapp.firebaseio.com/",
+  storageBucket: "gs://yourapp.appspot.com",
+};
